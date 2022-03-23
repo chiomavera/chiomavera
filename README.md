@@ -1,7 +1,7 @@
 - 👋🏼 Hi, I’m Vera.
 - 👩‍💻 I’m interested in Web Development.
 - ✍🏼I’m currently learning Javascript
-- 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, JAVASCRIPT)
+- 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT)
 - 📫 How to reach me chiomaverankanmuo@gmail.com
 
 <!---
