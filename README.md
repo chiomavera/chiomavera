@@ -2,6 +2,7 @@
 - 👩‍💻 I’m interested in Web Development.
 - ✍🏼I’m currently learning Javascript
 - 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT)
+- 👣 Sharing My Journey on Twitter and also documenting on Instagram @nkanmuo_vera.
 - 📫 How to reach me chiomaverankanmuo@gmail.com
 
 <!---
