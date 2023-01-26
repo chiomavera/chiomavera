@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m Vera.
-- 👩‍💻 I have keen interest in frontend Web Development.
+- 👩‍💻 A frontend Developer who creates responsive and functional Web Applications.
 - 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT-JS)
 - 📫 How to reach me chiomaverankanmuo@gmail.com
 
