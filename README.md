@@ -16,7 +16,7 @@
 </details>
 
 ## Lets Connect:
- [Email](chiomaverankanmuo@gmail.com)    [Twitter](https://twitter.com/nkanmuo_vera)    [LinkedIn](https://www.linkedin.com/in/chioma-vera-nkanmuo/)
+ [Email](chiomaverankanmuo@gmail.com)  [Twitter](https://twitter.com/nkanmuo_vera)  [LinkedIn](https://www.linkedin.com/in/chioma-vera-nkanmuo/)
  
  ## Stacks I'm currently working with:
  HTML, CSS, JavaScript, Bootstrap, Tailwind and React.js
