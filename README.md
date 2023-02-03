@@ -1,14 +1,25 @@
 # Hi 👋🏼, I’m Vera.
-**A frontend Developer who creates responsive and functional Web Applications.**
+**A Frontend Developer who creates responsive and functional Web Applications.**
 > If you are already here, do take a glipmse of repositories on my Github.
 
 <details>
     <summary>More about me</summary>
-          
-           
+    
+        I have passion for implementing designs to pixel-perect and turning ideas to workable solutions. 
+        I love to create solutions to promblems in my immediate environment. 
+    
+        With a background in computer science, I strive to solve technical and provide efficient solutions to complex problems. 
+        My goal is not only to build applications that are scalable and efficient but ones that provides seamless user experience.
+    
+        I am currently learning React.js and looking to collaborate on open source projects, with a goal 
+        to be more involved in the community. 
 </details>
-- 👀 I’m looking to collaborate on projects involving my skill sets (HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT-JS)
-- 📫 How to reach me chiomaverankanmuo@gmail.com
+
+## Lets Connect:
+ chiomaverankanmuo@gmail.com
+ 
+ ## Stacks I'm currently working with:
+ HTML, CSS, JavaScript, Bootstrap, Tailwind and React.js
 
 <!---
 chiomavera/chiomavera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
