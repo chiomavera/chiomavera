@@ -17,6 +17,7 @@
 
 ## Lets Connect:
  [Email](chiomaverankanmuo@gmail.com)  [Twitter](https://twitter.com/nkanmuo_vera)  [LinkedIn](https://www.linkedin.com/in/chioma-vera-nkanmuo/)
+<!-- <a href="chiomaverankanmuo@gmail.com"><img src="file:///C:/Users/Cupid/Downloads/icons8-mail.svg" alt="Email" /></a> -->
  
  ## Stacks I'm currently working with:
  HTML, CSS, JavaScript, Bootstrap, Tailwind and React.js
