@@ -1,5 +1,6 @@
 # Hi 👋🏼, I’m Vera.
 **A Frontend Developer who creates responsive and functional Web Applications.**
+
 > *If you are already here, do take a glipmse of repositories on my Github.*
 
 <details>
@@ -16,8 +17,9 @@
 </details>
 
 ## Lets Connect:
- [Email](chiomaverankanmuo@gmail.com)  [Twitter](https://twitter.com/nkanmuo_vera)  [LinkedIn](https://www.linkedin.com/in/chioma-vera-nkanmuo/)
-<!-- <a href="chiomaverankanmuo@gmail.com"><img src="file:///C:/Users/Cupid/Downloads/icons8-mail.svg" alt="Email" /></a> -->
+<a href="chiomaverankanmuo@gmail.com"><img src="https://github.com/chiomavera/images/blob/main/icons8-mail.svg" alt="Email" /></a>
+<a href="https://twitter.com/nkanmuo_vera"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="Tiwitter"/></a>
+<a href="https://www.linkedin.com/in/chioma-vera-nkanmuo/"><img src="https://github.com/chiomavera/images/blob/main/icons8-linkedin-circled.svg" alt="LinkedIn"/></a>
  
  ## Stacks I'm currently working with:
  HTML, CSS, JavaScript, Bootstrap, Tailwind and React.js
