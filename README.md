@@ -1,6 +1,6 @@
 # Hi 👋🏼, I’m Vera.
 **A Frontend Developer who creates responsive and functional Web Applications.**
-> If you are already here, do take a glipmse of repositories on my Github.
+> *If you are already here, do take a glipmse of repositories on my Github.*
 
 <details>
     <summary>More about me</summary>
@@ -20,6 +20,11 @@
  
  ## Stacks I'm currently working with:
  HTML, CSS, JavaScript, Bootstrap, Tailwind and React.js
+ 
+## Github Stas
+[![chiomavera's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiomavera&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 chiomavera/chiomavera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
