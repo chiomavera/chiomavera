@@ -17,7 +17,6 @@
 </details>
 
 ## Lets Connect:
-<a href="chiomaverankanmuo@gmail.com"><img src="https://github.com/chiomavera/images/blob/main/icons8-mail.svg" alt="Email" /></a>
 <a href="https://twitter.com/nkanmuo_vera"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="Tiwitter"/></a>
 <a href="https://www.linkedin.com/in/chioma-vera-nkanmuo/"><img src="https://github.com/chiomavera/images/blob/main/icons8-linkedin-circled.svg" alt="LinkedIn"/></a>
  
