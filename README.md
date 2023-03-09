@@ -1,12 +1,12 @@
 # Hi 👋🏼, I’m Vera.
-**A Frontend Developer who creates responsive and functional Web Applications.**
+**A Frontend Developer who creates responsive, accessible and functional Web Applications.**
 
 > *If you are already here, do take a glipmse of repositories on my Github.*
 
 <details>
     <summary><b>More about me</b></summary>
     
-        I have passion for implementing designs to pixel-perect and turning ideas to workable solutions. 
+        I have passion for developing accessible websites and turning ideas to workable solutions. 
         I love to create solutions to promblems in my immediate environment. 
     
         With a background in computer science, I strive to solve technical and provide efficient solutions to complex problems. 
