@@ -1,4 +1,4 @@
-# Hi 👋🏼, I’m Vera.
+# Hi 👋🏼, I’m Vera, Nkanmuo.
 **A Frontend Developer who creates responsive, accessible and functional Web Applications.**
 
 > *If you are already here, do take a glipmse of repositories on my Github.*
@@ -20,8 +20,8 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
 </details>
 
 ## Lets Connect:
-<a href="https://twitter.com/nkanmuo_vera"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="Tiwitter"/></a>
-<a href="https://www.linkedin.com/in/chioma-vera-nkanmuo/"><img src="https://github.com/chiomavera/images/blob/main/icons8-linkedin-circled.svg" alt="LinkedIn"/></a>
+<a href="https://twitter.com/nkanmuo_vera" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="My Tiwitter account"/></a>
+<a href="https://www.linkedin.com/in/chioma-vera-nkanmuo/" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-linkedin-circled.svg" alt="My LinkedIn account"/></a>
  
  ## Stacks I'm currently working with:
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
