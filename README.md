@@ -6,14 +6,17 @@
 <details>
     <summary><b>More about me</b></summary>
     
-        I have passion for developing accessible websites and turning ideas to workable solutions. 
-        I love to create solutions to promblems in my immediate environment. 
-    
-        With a background in computer science, I strive to solve technical and provide efficient solutions to complex problems. 
-        My goal is not only to build applications that are scalable and efficient but ones that provides seamless user experience.
-    
-        I am currently learning React.js and looking to collaborate on open source projects, with a goal 
-        to be more involved in the community. 
+I am passionate about creating interactive and engaging web experiences that are both responsive and accessible. Skilled in turning design concepts into workable solutions, I specialize in front-end development with a focus on React. 
+
+With a background in computer science, I strive to solve technical and provide efficient solutions to complex problems. 
+
+My goals include investigating and resolving issues, as well as designing solutions that align with best practices and industry standards
+
+I aim to build applications that are not only scalable and efficient but ones that provide a seamless user experience.
+
+Looking to use knowledge from my coursework and experience to bring value to an organization with a well-built team and a great sense of community.
+
+My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5. 
 </details>
 
 ## Lets Connect:
