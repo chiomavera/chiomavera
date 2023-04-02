@@ -36,10 +36,28 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
 <table>
     <tr>
       <td>
-       cd 
+       <h3>TaskMate</h3>
+        <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" alt="TaskMate Screenshoot"/>
+           <ul>
+            <li>
+              TaskMate is a Web App that helps you stay organized, manage your time effectively, and increase your productivity by keeping track of all your tasks in               one place.
+            </li>
+            <li>
+                It was built using React, utilizing React hooks for state management and local storage for data storage.
+            </li>
+        </ul>
       </td>
       <td>
-        cd
+        <h3>ThoughtStream</h3>
+        <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" alt="ThoughtStream Screenshoot"/>
+        <ul>
+            <li>
+              A web application that displays random quotes to motivate, inspire, entertain and educate users.
+            </li>
+            <li>
+                It was built using JavaScript, CSS and HTML utilizing arrays to manipulate the document object model.
+            </li>
+        </ul>
       </td>
     </tr>
 </table>
