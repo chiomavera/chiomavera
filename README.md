@@ -35,10 +35,12 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
 ## Featured Projects
 <table>
     <tr>
-      <td>
+      <td width="50%">
        <h3>TaskMate</h3>
-        <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" alt="TaskMate Screenshoot"/>
-           <ul>
+       <div align="center">
+        <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="450" alt="TaskMate Screenshoot"/>
+        </div>
+             <ul>
             <li>
               TaskMate is a Web App that helps you stay organized, manage your time effectively, and increase your productivity by keeping track of all your tasks in               one place.
             </li>
@@ -47,10 +49,12 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
             </li>
         </ul>
       </td>
-      <td>
+      <td width="50%">
         <h3>ThoughtStream</h3>
-        <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" alt="ThoughtStream Screenshoot"/>
-        <ul>
+        <div align="center">
+          <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="500" alt="ThoughtStream Screenshoot"/>
+         </div>
+              <ul>
             <li>
               A web application that displays random quotes to motivate, inspire, entertain and educate users.
             </li>
