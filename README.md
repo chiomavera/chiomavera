@@ -32,7 +32,17 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  
-
+## Featured Projects
+<table>
+    <tr>
+      <td>
+       cd 
+      </td>
+      <td>
+        cd
+      </td>
+    </tr>
+</table>
 
 
 
