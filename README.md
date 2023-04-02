@@ -6,17 +6,19 @@
 <details>
     <summary><b>More about me</b></summary>
     
-I am passionate about creating interactive and engaging web experiences that are both responsive and accessible. Skilled in turning design concepts into workable solutions, I specialize in front-end development with a focus on React. 
+I am passionate about creating interactive and engaging web experiences that are both responsive and accessible. Skilled in turning design concepts into workable solutions, I specialize in front-end development focusing on React. 
 
-With a background in computer science, I strive to solve technical and provide efficient solutions to complex problems. 
+As a recent graduate with a Bachelor of Science in Computer Science, I possess a strong foundation in programming concepts and practical software development skills. During my Student Industrial Work Experience ( SIWES) training at Octofi Limited, I gained hands-on experience in web development, including developing a responsive website with structured data markup and optimized metadata, as well as using Git for code management to increase collaboration efficiency and reducing code conflicts.
 
-My goals include investigating and resolving issues, as well as designing solutions that align with best practices and industry standards
+In addition, I have created two web applications, TaskMate and ThoughtStream, using React.js, JavaScript, HTML, and CSS. Through these projects, I have honed my skills in front-end development, user interface design, and web optimization techniques, achieving high user satisfaction ratings and positive feedback.
 
-I aim to build applications that are not only scalable and efficient but ones that provide a seamless user experience.
+Moreover, as the Chief of Staff for NACOS at Nnamdi Azikiwe University, in collaboration with the executives, I organized a successful boot camp that trained over 20 students in Back-end & Front-end Development, Block Chain, and Cloud Computing. This experience allowed me to exercise my leadership and communication skills, as well as my ability to collaborate effectively with a team.
+
+My goals include investigating and resolving issues, as well as designing solutions that align with best practices and industry standards. I aim to build applications that are not only scalable and efficient but ones that provide a seamless user experience.
 
 Looking to use knowledge from my coursework and experience to bring value to an organization with a well-built team and a great sense of community.
 
-My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5. 
+My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
 </details>
 
 ## Lets Connect:
