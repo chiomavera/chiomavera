@@ -38,22 +38,29 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
       <td width="50%">
        <h3>TaskMate</h3>
        <div align="center">
-        <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshoot"/>
+        <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshoot"/>    
+           <a href="https://github.com/chiomavera/TaskMate" alt="TaskMate's repo">CODE</a>
+            <a href="https://taskmatebyvera-gnome-895670.netlify.app/" alt="TaskMate's website">WEBSITE</a
         </div>
-             <ul>
+         <div align="left">
+           <ul>
             <li>
-             A Web App that helps you stay organized, manage your time effectively, and increase your productivity by keeping track of all your tasks in               one place.
+              A Web App that helps you stay organized, manage your time effectively, and increase your productivity by keeping track of all your tasks in one place.
             </li>
             <li>
-                It was built using React, utilizing React hooks for state management and local storage for data storage.
+             It was built using React, utilizing React hooks for state management and local storage for data storage.
             </li>
         </ul>
+         </div>
       </td>
       <td width="50%">
         <h3>ThoughtStream</h3>
         <div align="center">
           <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="700" alt="ThoughtStream Screenshoot"/>
+           <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream repo">CODE</a>
+           <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream website">WEBSITE</a>
          </div>
+        <div align="left">
           <ul>
             <li>
               A web application that displays random quotes to motivate, inspire, entertain and educate users.
@@ -62,6 +69,7 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
                 It was designed and implemented using JavaScript, CSS and HTML utilizing arrays to manipulate the document object model.
             </li>
         </ul>
+         </div>
       </td>
     </tr>
 </table>
