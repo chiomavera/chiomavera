@@ -78,7 +78,7 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
        <td width="50%">
         <h3>Beauty</h3>
         <div align="center">
-          <img src="https://github.com/chiomavera/chiomavera/blob/main/beauty.png" width="1000" alt="beauty Screenshoot"/>
+          <img src="https://github.com/chiomavera/chiomavera/blob/main/beauty.png" width="700" alt="beauty Screenshoot"/>
            <a href="https://github.com/chiomavera/beauty-landing-page" alt="Beauty repo">CODE</a>
            <a href="https://beautybyverankanmuo.netlify.app/" alt="Beauty website">WEBSITE</a>
          </div>
