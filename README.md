@@ -1,3 +1,5 @@
+<img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="1000" alt="TaskMate Screenshoot"/>
+
 # Hi 👋🏼, I’m Vera, Nkanmuo.
 **A Frontend Developer who creates responsive, accessible and functional Web Applications.**
 
