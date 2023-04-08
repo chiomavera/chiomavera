@@ -12,7 +12,7 @@ As a recent graduate with a Bachelor of Science in Computer Science, I possess a
 
 In addition, I have created two web applications, TaskMate and ThoughtStream, using React.js, JavaScript, HTML, and CSS. Through these projects, I have honed my skills in front-end development, user interface design, and web optimization techniques, achieving high user satisfaction ratings and positive feedback.
 
-Moreover, as the Chief of Staff for NACOS at Nnamdi Azikiwe University, in collaboration with the executives, I organized a successful boot camp that trained over 20 students in Back-end & Front-end Development, Block Chain, and Cloud Computing. This experience allowed me to exercise my leadership and communication skills, as well as my ability to collaborate effectively with a team.
+Outside of my technical skills, I collaborated with other executives as Chief of Staff for NACOS (National Association of Computer Science Students) at Nnamdi Azikiwe University. Together, we organized NACOS Boot-camp 2021 and trained 20+ students in Back-end & Front-end Development, Block Chain, and Cloud Computing. Our efforts resulted in a 90% satisfaction rating from attendees in post-event surveys.
 
 My goals include investigating and resolving issues, as well as designing solutions that align with best practices and industry standards. I aim to build applications that are not only scalable and efficient but ones that provide a seamless user experience.
 
