@@ -41,8 +41,8 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
        <h3>TaskMate</h3>
        <div align="center">
         <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshoot"/>    
-           <a href="https://github.com/chiomavera/TaskMate" alt="TaskMate's repo">CODE</a>
-            <a href="https://taskmatebyvera-gnome-895670.netlify.app/" alt="TaskMate's website">WEBSITE</a
+           <a href="https://github.com/chiomavera/TaskMate" alt="TaskMate's repo" target="_blank">CODE</a>
+            <a href="https://taskmatebyvera-gnome-895670.netlify.app/" alt="TaskMate's website" target="_blank">WEBSITE</a
         </div>
          <div align="left">
            <ul>
@@ -59,8 +59,8 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
         <h3>ThoughtStream</h3>
         <div align="center">
           <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="700" alt="ThoughtStream Screenshoot"/>
-           <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream repo">CODE</a>
-           <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream website">WEBSITE</a>
+           <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream repo" target="_blank">CODE</a>
+           <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream website" target="_blank">WEBSITE</a>
          </div>
         <div align="left">
           <ul>
@@ -79,8 +79,8 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
         <h3>Beauty</h3>
         <div align="center">
           <img src="https://github.com/chiomavera/chiomavera/blob/main/beauty.png" width="700" alt="beauty Screenshoot"/>
-           <a href="https://github.com/chiomavera/beauty-landing-page" alt="Beauty repo">CODE</a>
-           <a href="https://beautybyverankanmuo.netlify.app/" alt="Beauty website">WEBSITE</a>
+           <a href="https://github.com/chiomavera/beauty-landing-page" alt="Beauty repo" target="_blank">CODE</a>
+           <a href="https://beautybyverankanmuo.netlify.app/" alt="Beauty website" target="_blank" >WEBSITE</a>
          </div>
         <div align="left">
           <ul>
