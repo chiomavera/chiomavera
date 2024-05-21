@@ -19,11 +19,11 @@ I love learning and I don't shy away from asking questions when need be.
 
 My experience with volunteering and collaborating with my peers on software development projects has built my strengths in effective communication and team work.
 
-Also having had the opportunity to work as a contract worker for a frontend developer role has built my strength in frontend developer.
+Also having had the opportunity to work as a contract worker for a frontend developer role has built my strength in frontend development.
 
-My 3 years experience teaching myself frontend with the help of online resources has taught me resilience, discipline and dedication. 
+My 3 years experience teaching myself frontend development with the help of online resources has taught me resilience, discipline and dedication. 
 
-In summary, Vera is not one to back off in face of challenges and whatever she put her mind to, she strive hard to succeed.
+In summary, Vera is not one to back eoff in face of challenges and whatever she put her mind to, she strive hard to succeed.
 
 ## Lets Connect:
 <a href="https://twitter.com/nkanmuo_vera" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="My Tiwitter account"/></a>
