@@ -8,20 +8,21 @@
 <details>
     <summary><b>More about me</b></summary>
     
-I am passionate about creating interactive and engaging web experiences that are both responsive and accessible. Skilled in turning design concepts into workable solutions, I specialize in front-end development focusing on React. 
+My name is Nkanmuo Vera Chioma, I am a computer science graduate from Nnamdi Azikiwe University.  
 
-As a recent graduate with a Bachelor of Science in Computer Science, I possess a strong foundation in programming concepts and practical software development skills. During my Student Industrial Work Experience ( SIWES) training at Octofi Limited, I gained hands-on experience in web development, including developing a responsive website with structured data markup and optimized metadata, as well as using Git for code management to increase collaboration efficiency and reducing code conflicts.
+I am passionate about frontend development with a flair for implementing captivating  designs with meticulous precision.  Dedicated to crafting accessible websites that seamlessly bridge the gap between creativity and functionality. 
 
-In addition, I have created two web applications, TaskMate and ThoughtStream, using React.js, JavaScript, HTML, and CSS. Through these projects, I have honed my skills in front-end development, user interface design, and web optimization techniques, achieving high user satisfaction ratings and positive feedback.
+Beyond coding, I'm a culinary enthusiasts whipping up delicious experiments, a book lover exploring new realms and a fitness advocate embracing a balanced lifestyle. 
 
-Outside of my technical skills, I collaborated with other executives as Chief of Staff for NACOS (National Association of Computer Science Students) at Nnamdi Azikiwe University. Together, we organized NACOS Boot-camp 2021 and trained 20+ students in Back-end & Front-end Development, Block Chain, and Cloud Computing. Our efforts resulted in a 90% satisfaction rating from attendees in post-event surveys.
+I love learning and I don't shy away from asking questions when need be. 
 
-My goals include investigating and resolving issues, as well as designing solutions that align with best practices and industry standards. I aim to build applications that are not only scalable and efficient but ones that provide a seamless user experience.
+My experience with volunteering and collaborating with my peers on software development projects has built my strengths in effective communication and team work.
 
-Looking to use knowledge from my coursework and experience to bring value to an organization with a well-built team and a great sense of community.
+Also having had the opportunity to work as a contract worker for a frontend developer role has built my strength in frontend developer.
 
-My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
-</details>
+My 3 years experience teaching myself frontend with the help of online resources has taught me resilience, discipline and dedication. 
+
+In summary, Vera is not one to back off in face of challenges and whatever she put her mind to, she strive hard to succeed.
 
 ## Lets Connect:
 <a href="https://twitter.com/nkanmuo_vera" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="My Tiwitter account"/></a>
