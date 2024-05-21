@@ -8,6 +8,7 @@
 <details>
     <summary><b>More about me</b></summary>
     
+    
 My name is Nkanmuo Vera Chioma, I am a computer science graduate from Nnamdi Azikiwe University.  
 
 I am passionate about frontend development with a flair for implementing captivating  designs with meticulous precision.  Dedicated to crafting accessible websites that seamlessly bridge the gap between creativity and functionality. 
