@@ -60,7 +60,7 @@ My stacks include React.js, JavaScript, CSS3, Bootstrap, Tailwind, and HTML5.
         <div align="center">
           <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="700" alt="ThoughtStream Screenshoot"/>
            <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream repo" target="_blank">CODE</a>
-           <a href="chiomavera.github.io/thoughtstream/" alt="ThoughtStream website" target="_blank">WEBSITE</a>
+           <a href="https://chiomavera.github.io/ThoughtStream/" alt="ThoughtStream website" target="_blank">WEBSITE</a>
          </div>
         <div align="left">
           <ul>
