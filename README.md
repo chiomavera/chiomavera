@@ -80,7 +80,7 @@ Let’s build something awesome! 🚀
          </div>
       </td>
           <td width="50%">
-        <h3>Beauty</h3>
+        <h3>GuessTheColor</h3>
         <div align="center">
           <img src="" width="700" alt="guessThecolor Screenshoot"/>
            <a href="https://github.com/chiomavera/color-game" alt="guessTheColor repo" target="_blank">CODE</a>
