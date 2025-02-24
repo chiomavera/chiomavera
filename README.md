@@ -51,7 +51,7 @@ Let’s build something awesome! 🚀
         <div align="center">
           <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="700" alt="inspireMe Screenshoot"/>
            <a href="https://github.com/chiomavera/InspireMe" alt="inspireMe repo" target="_blank">CODE</a>
-           <a href="https://inspireme-by-vera.netlify.app/" alt="ThoughtStream website" target="_blank">WEBSITE</a>
+           <a href="https://inspireme-by-vera.netlify.app/" alt="inspireMe website" target="_blank">WEBSITE</a>
          </div>
         <div align="left">
           <ul>
@@ -73,7 +73,25 @@ Let’s build something awesome! 🚀
         <div align="left">
           <ul>
             <li>
-              A modern beauty website with an elegant, user-friendly interface.
+              A modern beauty website with an elegant, user-friendly 
+              interface.
+            </li>
+        </ul>
+         </div>
+      </td>
+      </tr>
+     <tr>
+       <td width="50%">
+        <h3>Beauty</h3>
+        <div align="center">
+          <img src="" width="700" alt="guessThecolor Screenshoot"/>
+           <a href="https://github.com/chiomavera/color-game" alt="guessTheColor repo" target="_blank">CODE</a>
+           <a href="guessthecolor-game.netlify.app" alt="guessTheColor website" target="_blank" >WEBSITE</a>
+         </div>
+        <div align="left">
+          <ul>
+            <li>
+             An interactive color guessing game that challenges players to match a randomly displayed color, featuring smooth animations, score tracking, and a responsive                 design.
             </li>
         </ul>
          </div>
