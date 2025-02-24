@@ -7,23 +7,15 @@
 
 <details>
     <summary><b>More about me</b></summary>
-    
-    
-My name is Nkanmuo Vera Chioma, I am a computer science graduate from Nnamdi Azikiwe University.  
 
-I am passionate about frontend development with a flair for implementing captivating  designs with meticulous precision.  Dedicated to crafting accessible websites that seamlessly bridge the gap between creativity and functionality. 
+Hey there! I’m Nkanmuo Vera Chioma, a Computer Science graduate who loves building things on the web. I started with a passion for making websites look great and function smoothly, but over time, I’ve become even more focused on making them secure and accessible.
 
-Beyond coding, I'm a culinary enthusiasts whipping up delicious experiments, a book lover exploring new realms and a fitness advocate embracing a balanced lifestyle. 
+I believe software should be for everyone, and that means creating experiences that aren’t just visually appealing but also safe and easy to use. My experience in frontend development, testing, and technical support has given me insight into performance, accessibility, and security, and I’m always learning how to improve in those areas.
 
-I love learning and I don't shy away from asking questions when need be. 
+Outside of tech, you’ll probably find me experimenting in the kitchen, lost in a book, or staying active. I love learning, asking questions, and tackling challenges head-on.
 
-My experience with volunteering and collaborating with my peers on software development projects has built my strengths in effective communication and team work.
-
-Also having had the opportunity to work as a contract worker for a frontend developer role has built my strength in frontend development.
-
-My 3 years experience teaching myself frontend development with the help of online resources has taught me resilience, discipline and dedication. 
-
-In summary, Vera is not one to back eoff in face of challenges and whatever she put her mind to, she strive hard to succeed.
+Let’s build something awesome! 🚀
+</details>
 
 ## Lets Connect:
 <a href="https://twitter.com/nkanmuo_vera" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="My Tiwitter account"/></a>
@@ -49,28 +41,22 @@ In summary, Vera is not one to back eoff in face of challenges and whatever she 
          <div align="left">
            <ul>
             <li>
-              A Web App that helps you stay organized, manage your time effectively, and increase your productivity by keeping track of all your tasks in one place.
+              TaskMate helps you stay organized, manage your time effectively, and increase your productivity by keeping track of all your tasks in one place.
             </li>
-            <li>
-             It was built using React, utilizing React hooks for state management and local storage for data storage.
-            </li>
-        </ul>
+          </ul>
          </div>
-      </td>
+        </td>
       <td width="50%">
-        <h3>ThoughtStream</h3>
+        <h3>inspireMe</h3>
         <div align="center">
-          <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="700" alt="ThoughtStream Screenshoot"/>
-           <a href="https://github.com/chiomavera/ThoughtStream" alt="ThoughtStream repo" target="_blank">CODE</a>
-           <a href="https://chiomavera.github.io/ThoughtStream/" alt="ThoughtStream website" target="_blank">WEBSITE</a>
+          <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="700" alt="inspireMe Screenshoot"/>
+           <a href="https://github.com/chiomavera/InspireMe" alt="inspireMe repo" target="_blank">CODE</a>
+           <a href="https://inspireme-by-vera.netlify.app/" alt="ThoughtStream website" target="_blank">WEBSITE</a>
          </div>
         <div align="left">
           <ul>
             <li>
-              A web application that displays random quotes to motivate, inspire, entertain and educate users.
-            </li>
-            <li>
-                It was designed and implemented using JavaScript, CSS and HTML utilizing arrays to manipulate the document object model.
+                InspireMe is a simple web app that showcases a diverse collection of motivational and thought-provoking quotes, categorized for easy exploration.
             </li>
         </ul>
          </div>
@@ -87,10 +73,7 @@ In summary, Vera is not one to back eoff in face of challenges and whatever she 
         <div align="left">
           <ul>
             <li>
-              A landing page for a beauty salon.
-            </li>
-            <li>
-                This work is been developed with the use of html, css, bootstrap and JavaScript. The inspiration behind this work is beauty.
+              A modern beauty website with an elegant, user-friendly interface.
             </li>
         </ul>
          </div>
