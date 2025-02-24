@@ -79,9 +79,7 @@ Let’s build something awesome! 🚀
         </ul>
          </div>
       </td>
-      </tr>
-     <tr>
-       <td width="50%">
+          <td width="50%">
         <h3>Beauty</h3>
         <div align="center">
           <img src="" width="700" alt="guessThecolor Screenshoot"/>
