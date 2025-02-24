@@ -49,7 +49,7 @@ Let’s build something awesome! 🚀
       <td width="50%">
         <h3>inspireMe</h3>
         <div align="center">
-          <img src="https://github.com/chiomavera/chiomavera/blob/main/ThoughtStream.png" width="700" alt="inspireMe Screenshoot"/>
+          <img src="https://github.com/chiomavera/chiomavera/blob/main/inspireMescreenshot.png" width="700" alt="inspireMe Screenshoot"/>
            <a href="https://github.com/chiomavera/InspireMe" alt="inspireMe repo" target="_blank">CODE</a>
            <a href="https://inspireme-by-vera.netlify.app/" alt="inspireMe website" target="_blank">WEBSITE</a>
          </div>
