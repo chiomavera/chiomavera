@@ -82,7 +82,7 @@ Let’s build something awesome! 🚀
           <td width="50%">
         <h3>GuessTheColor</h3>
         <div align="center">
-          <img src="" width="700" alt="guessThecolor Screenshoot"/>
+          <img src="https://github.com/chiomavera/chiomavera/blob/main/guessthecolor.png" width="700" alt="guessThecolor Screenshoot"/>
            <a href="https://github.com/chiomavera/color-game" alt="guessTheColor repo" target="_blank">CODE</a>
            <a href="guessthecolor-game.netlify.app" alt="guessTheColor website" target="_blank" >WEBSITE</a>
          </div>
