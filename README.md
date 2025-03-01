@@ -1,6 +1,6 @@
 <img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="1000" alt="TaskMate Screenshoot"/>
 
-# Hi 👋🏼, I’m Vera, Nkanmuo.
+# Hi 👋🏼, I’m Nkanmuo, Vera Chioma.
 **A Frontend Developer who creates responsive, accessible and functional Web Applications.**
 
 > *If you are already here, do take a glipmse of repositories on my Github.*
@@ -8,7 +8,7 @@
 <details>
     <summary><b>More about me</b></summary>
 
-Hey there! I’m Nkanmuo Vera Chioma, a Computer Science graduate who loves building things on the web. I started with a passion for making websites look great and function smoothly, but over time, I’ve become even more focused on making them secure and accessible.
+I’m a Computer Science graduate who loves building things on the web. I started with a passion for making websites look great and function smoothly, but over time, I’ve become even more focused on making them secure and accessible.
 
 I believe software should be for everyone, and that means creating experiences that aren’t just visually appealing but also safe and easy to use. My experience in frontend development, testing, and technical support has given me insight into performance, accessibility, and security, and I’m always learning how to improve in those areas.
 
