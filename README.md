@@ -1,105 +1,85 @@
-<img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="1000" alt="TaskMate Screenshoot"/>
+<img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="1000" alt="Banner"/>
 
-# Hi 👋🏼, I’m Nkanmuo, Vera Chioma.
-**A Frontend Developer who creates responsive, accessible and functional Web Applications.**
+# Hi 👋🏼, I'm Vera Chioma Nkanmuo
+**Frontend Developer | React.js • Next.js • TailwindCSS | Building responsive, scalable, and accessible web interfaces**
 
-> *If you are already here, do take a glipmse of repositories on my Github.*
+> *Welcome to my corner of GitHub. Here, you'll find the code behind clean, performant, and user-first web applications.*
+
+---
 
 <details>
-    <summary><b>More about me</b></summary>
+  <summary><b>👩🏽‍💻 About Me</b></summary>
 
-I’m a Computer Science graduate who loves building things on the web. I started with a passion for making websites look great and function smoothly, but over time, I’ve become even more focused on making them secure and accessible.
+I'm a Frontend Developer focused on creating seamless, high-performance user experiences using modern JavaScript frameworks.
 
-I believe software should be for everyone, and that means creating experiences that aren’t just visually appealing but also safe and easy to use. My experience in frontend development, testing, and technical support has given me insight into performance, accessibility, and security, and I’m always learning how to improve in those areas.
+My tech stack includes React.js, Next.js, TailwindCSS, and Git—paired with a passion for clean UI, accessibility, and fast delivery. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
 
-Outside of tech, you’ll probably find me experimenting in the kitchen, lost in a book, or staying active. I love learning, asking questions, and tackling challenges head-on.
+- 🔍 **Accessibility advocate** – Because great UI is for everyone  
+- 🔧 **Performance-focused** – I use DevTools, Lighthouse & best practices  
+- 🧪 **Quality-driven** – From code reviews to usability testing  
+- 🧠 Always learning. Always shipping.
 
-Let’s build something awesome! 🚀
+When I’m not building or testing UIs, I’m probably in the kitchen, buried in a book, or tinkering with a side project. Let’s collaborate!
+
 </details>
 
-## Lets Connect:
-<a href="https://twitter.com/nkanmuo_vera" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="My Tiwitter account"/></a>
-<a href="https://www.linkedin.com/in/chioma-vera-nkanmuo/" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-linkedin-circled.svg" alt="My LinkedIn account"/></a>
- 
- ## Stacks I'm currently working with:
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
-## Featured Projects
+---
+
+## 📫 Let’s Connect:
+<a href="https://twitter.com/nkanmuo_vera" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-twitter.svg" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/chioma-vera-nkanmuo/" target="_blank"><img src="https://github.com/chiomavera/images/blob/main/icons8-linkedin-circled.svg" alt="LinkedIn" /></a>
+
+---
+
+## 🛠️ Tech Stack & Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+*Each of these projects reflects real-world problem-solving, UI design execution, and frontend engineering.*
+
 <table>
-    <tr>
-      <td width="50%">
-       <h3>TaskMate</h3>
-       <div align="center">
-        <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshoot"/>    
-           <a href="https://github.com/chiomavera/TaskMate" alt="TaskMate's repo" target="_blank">CODE</a>
-            <a href="https://taskmatebyvera-gnome-895670.netlify.app/" alt="TaskMate's website" target="_blank">WEBSITE</a
-        </div>
-         <div align="left">
-           <ul>
-            <li>
-              TaskMate helps you stay organized, manage your time effectively, and increase your productivity by keeping track of all your tasks in one place.
-            </li>
-          </ul>
-         </div>
-        </td>
-      <td width="50%">
-        <h3>inspireMe</h3>
-        <div align="center">
-          <img src="https://github.com/chiomavera/chiomavera/blob/main/inspireMescreenshot.png" width="700" alt="inspireMe Screenshoot"/>
-           <a href="https://github.com/chiomavera/InspireMe" alt="inspireMe repo" target="_blank">CODE</a>
-           <a href="https://inspireme-by-vera.netlify.app/" alt="inspireMe website" target="_blank">WEBSITE</a>
-         </div>
-        <div align="left">
-          <ul>
-            <li>
-                InspireMe is a simple web app that showcases a diverse collection of motivational and thought-provoking quotes, categorized for easy exploration.
-            </li>
-        </ul>
-         </div>
-      </td>
-    </tr>
-    <tr>
-       <td width="50%">
-        <h3>Beauty</h3>
-        <div align="center">
-          <img src="https://github.com/chiomavera/chiomavera/blob/main/beauty.png" width="700" alt="beauty Screenshoot"/>
-           <a href="https://github.com/chiomavera/beauty-landing-page" alt="Beauty repo" target="_blank">CODE</a>
-           <a href="https://beautybyverankanmuo.netlify.app/" alt="Beauty website" target="_blank" >WEBSITE</a>
-         </div>
-        <div align="left">
-          <ul>
-            <li>
-              A modern beauty website with an elegant, user-friendly 
-              interface.
-            </li>
-        </ul>
-         </div>
-      </td>
-          <td width="50%">
-        <h3>GuessTheColor</h3>
-        <div align="center">
-          <img src="https://github.com/chiomavera/chiomavera/blob/main/guessthecolor.png" width="700" alt="guessThecolor Screenshoot"/>
-           <a href="https://github.com/chiomavera/color-game" alt="guessTheColor repo" target="_blank">CODE</a>
-           <a href="guessthecolor-game.netlify.app" alt="guessTheColor website" target="_blank" >WEBSITE</a>
-         </div>
-        <div align="left">
-          <ul>
-            <li>
-             An interactive color guessing game that challenges players to match a randomly displayed color, featuring smooth animations, score tracking, and a responsive                 design.
-            </li>
-        </ul>
-         </div>
-      </td>
-      </tr>
+<tr>
+  <td width="50%">
+    <h3>TaskMate</h3>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshot"/>
+    <p>✅ Productivity web app for managing daily tasks with a responsive UI.</p>
+    <a href="https://github.com/chiomavera/TaskMate" target="_blank">🔗 Code</a> |
+    <a href="https://taskmatebyvera-gnome-895670.netlify.app/" target="_blank">🌐 Live Site</a>
+  </td>
+  <td width="50%">
+    <h3>inspireMe</h3>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/inspireMescreenshot.png" width="700" alt="inspireMe Screenshot"/>
+    <p>📖 Quote app with filters for different categories and mobile-first design.</p>
+    <a href="https://github.com/chiomavera/InspireMe" target="_blank">🔗 Code</a> |
+    <a href="https://inspireme-by-vera.netlify.app/" target="_blank">🌐 Live Site</a>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3>Beauty</h3>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/beauty.png" width="700" alt="Beauty Screenshot"/>
+    <p>💄 Elegant landing page for a beauty brand with booking functionality.</p>
+    <a href="https://github.com/chiomavera/beauty-landing-page" target="_blank">🔗 Code</a> |
+    <a href="https://beautybyverankanmuo.netlify.app/" target="_blank">🌐 Live Site</a>
+  </td>
+  <td width="50%">
+    <h3>GuessTheColor</h3>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/guessthecolor.png" width="700" alt="GuessTheColor Screenshot"/>
+    <p>🎮 Interactive game to guess RGB colors. Includes scoring & animations.</p>
+    <a href="https://github.com/chiomavera/color-game" target="_blank">🔗 Code</a> |
+    <a href="https://guessthecolor-game.netlify.app" target="_blank">🌐 Live Site</a>
+  </td>
+</tr>
 </table>
-
-
-
-<!---
-chiomavera/chiomavera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
