@@ -10,9 +10,9 @@
 <details>
   <summary><b>👩🏽‍💻 About Me</b></summary>
 
-I'm a Frontend Developer focused on creating seamless, high-performance user experiences using modern JavaScript frameworks.
+I'm a Frontend Developer focused on creating responsive, high-performance,accessible and clean web applications.
 
-My tech stack includes React.js, Next.js, TailwindCSS, and Git—paired with a passion for clean UI, accessibility, and fast delivery. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
+My tech stack includes React.js, Next.js,JavaScript,TailwindCSS,CSS,HTML and Git—paired with a passion for clean UI, accessibility and responsiveness. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
 
 - 🔍 **Accessibility advocate** – Because great UI is for everyone  
 - 🔧 **Performance-focused** – I use DevTools, Lighthouse & best practices  
