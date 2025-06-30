@@ -1,7 +1,7 @@
 <img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="1000" alt="Banner"/>
 
 # Hi 👋🏼, I'm Vera Chioma Nkanmuo
-**Frontend Developer | React.js • Next.js • TailwindCSS | Building responsive, scalable, and accessible web interfaces**
+**Frontend Developer | React.js • JavaScript • TailwindCSS | Building responsive, scalable, and accessible web interfaces**
 
 > *Welcome to my corner of GitHub. Here, you'll find the code behind clean, performant, and user-first web applications.*
 
@@ -12,7 +12,7 @@
 
 I'm a Frontend Developer focused on creating responsive, high-performance,accessible and clean web applications.
 
-My tech stack includes React.js, Next.js,JavaScript,TailwindCSS,CSS,HTML and Git—paired with a passion for clean UI, accessibility and responsiveness. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
+My tech stack includes React.js,JavaScript,TailwindCSS,CSS,HTML and Git—paired with a passion for clean UI, accessibility and responsiveness. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
 
 - 🔍 **Accessibility advocate** – Because great UI is for everyone  
 - 🔧 **Performance-focused** – I use DevTools, Lighthouse & best practices  
