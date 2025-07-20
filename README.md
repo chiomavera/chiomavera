@@ -1,7 +1,7 @@
 <img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="1000" alt="Banner"/>
 
 # Hi 👋🏼, I'm Vera Chioma Nkanmuo
-**Frontend Developer | React.js • JavaScript • TailwindCSS | Building responsive, scalable, and accessible web interfaces**
+**Frontend Developer | Next.js • React.js • JavaScript • TailwindCSS | Building responsive, scalable, and accessible web interfaces**
 
 > *Welcome to my corner of GitHub. Here, you'll find the code behind clean, performant, and user-first web applications.*
 
@@ -10,9 +10,9 @@
 <details>
   <summary><b>👩🏽‍💻 About Me</b></summary>
 
-I'm a Frontend Developer focused on creating responsive, high-performance,accessible and clean web applications.
+I'm a Frontend Developer focused on creating responsive, high-performance, accessible and clean web applications.
 
-My tech stack includes React.js,JavaScript,TailwindCSS,CSS,HTML and Git—paired with a passion for clean UI, accessibility and responsiveness. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
+My tech stack includes React.js, JavaScript, Tailwind CSS, CSS, HTML, and Git—paired with a passion for clean UI, accessibility, and responsiveness. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
 
 - 🔍 **Accessibility advocate** – Because great UI is for everyone  
 - 🔧 **Performance-focused** – I use DevTools, Lighthouse & best practices  
@@ -54,7 +54,7 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
   <td width="50%">
     <h3>TaskMate</h3>
     <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshot"/>
-    <p>✅ Productivity web app for managing daily tasks with a responsive UI.</p>
+    <p>✅ Productivity web app for managing daily tasks with a responsive UI </p>
     <a href="https://github.com/chiomavera/TaskMate" target="_blank">🔗 Code</a> |
     <a href="https://taskmatebyvera-gnome-895670.netlify.app/" target="_blank">🌐 Live Site</a>
   </td>
@@ -77,7 +77,7 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
   <td width="50%">
     <h3>GuessTheColor</h3>
     <img src="https://github.com/chiomavera/chiomavera/blob/main/guessthecolor.png" width="700" alt="GuessTheColor Screenshot"/>
-    <p>🎮 Interactive game to guess RGB colors. Includes scoring & animations.</p>
+    <p>🎮 Interactive game to guess RGB colours. Includes scoring & animations.</p>
     <a href="https://github.com/chiomavera/color-game" target="_blank">🔗 Code</a> |
     <a href="https://guessthecolor-game.netlify.app" target="_blank">🌐 Live Site</a>
   </td>
