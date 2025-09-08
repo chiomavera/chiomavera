@@ -8,16 +8,16 @@
 ---
 
 <details>
-  <summary><b>👩🏽‍💻 About Me</b></summary>
+  <summary><b>About Me</b></summary>
 
 I'm a Frontend Developer focused on creating responsive, high-performance, accessible and clean web applications.
 
 My tech stack includes React.js, JavaScript, Tailwind CSS, CSS, HTML, and Git—paired with a passion for clean UI, accessibility, and responsiveness. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
 
-- 🔍 **Accessibility advocate** – Because great UI is for everyone  
-- 🔧 **Performance-focused** – I use DevTools, Lighthouse & best practices  
-- 🧪 **Quality-driven** – From code reviews to usability testing  
-- 🧠 Always learning. Always shipping.
+- **Accessibility advocate** – Because great UI is for everyone  
+- **Performance-focused** – I use DevTools, Lighthouse & best practices  
+- **Quality-driven** – From code reviews to usability testing  
+- Always learning. Always shipping.
 
 When I’m not building or testing UIs, I’m probably in the kitchen, buried in a book, or tinkering with a side project. Let’s collaborate!
 
