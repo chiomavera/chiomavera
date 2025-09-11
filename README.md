@@ -60,7 +60,7 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
   </td>
   <td width="50%">
     <h3>inspireMe</h3>
-    <img src="https://github.com/chiomavera/chiomavera/blob/main/inspireMescreenshot.png" width="700" alt="inspireMe Screenshot"/>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/inspireMe2.png" width="700" alt="inspireMe Screenshot"/>
     <p>📖 Quote app with filters for different categories and mobile-first design.</p>
     <a href="https://github.com/chiomavera/InspireMe" target="_blank">🔗 Code</a> |
     <a href="https://inspireme-by-vera.netlify.app/" target="_blank">🌐 Live Site</a>
