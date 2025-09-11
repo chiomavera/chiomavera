@@ -52,27 +52,27 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
 <table>
 <tr>
   <td width="50%">
-    <h3>TaskMate</h3>
-    <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshot"/>
-    <p>✅ Productivity web app for managing daily tasks with a responsive UI </p>
-    <a href="https://github.com/chiomavera/TaskMate" target="_blank">🔗 Code</a> |
-    <a href="https://taskmatebyvera-gnome-895670.netlify.app/" target="_blank">🌐 Live Site</a>
-  </td>
-  <td width="50%">
     <h3>inspireMe</h3>
-    <img src="https://github.com/chiomavera/chiomavera/blob/main/inspireMe2.png" width="700" alt="inspireMe Screenshot"/>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/InspireMe2.png" width="700" alt="inspireMe Screenshot"/>
     <p>📖 Quote app with filters for different categories and mobile-first design.</p>
     <a href="https://github.com/chiomavera/InspireMe" target="_blank">🔗 Code</a> |
     <a href="https://inspireme-by-vera.netlify.app/" target="_blank">🌐 Live Site</a>
   </td>
-</tr>
-<tr>
   <td width="50%">
     <h3>Beauty</h3>
     <img src="https://github.com/chiomavera/chiomavera/blob/main/beauty.png" width="700" alt="Beauty Screenshot"/>
     <p>💄 Elegant landing page for a beauty brand with booking functionality.</p>
     <a href="https://github.com/chiomavera/beauty-landing-page" target="_blank">🔗 Code</a> |
     <a href="https://beautybyverankanmuo.netlify.app/" target="_blank">🌐 Live Site</a>
+  </td>
+</tr>
+<tr>
+   <td width="50%">
+    <h3>TaskMate</h3>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshot"/>
+    <p>✅ Productivity web app for managing daily tasks with a responsive UI </p>
+    <a href="https://github.com/chiomavera/TaskMate" target="_blank">🔗 Code</a> |
+    <a href="https://taskmatebyvera-gnome-895670.netlify.app/" target="_blank">🌐 Live Site</a>
   </td>
   <td width="50%">
     <h3>GuessTheColor</h3>
