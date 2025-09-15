@@ -66,6 +66,21 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
     <a href="https://beautybyverankanmuo.netlify.app/" target="_blank">🌐 Live Site</a>
   </td>
 </tr>
-
+  <tr>
+   <td width="50%">
+    <h3>TaskMate</h3>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshot"/>
+    <p>✅ Productivity web app for managing daily tasks with a responsive UI </p>
+    <a href="https://github.com/chiomavera/TaskMate" target="_blank">🔗 Code</a> |
+    <a href="https://taskmatebyvera-gnome-895670.netlify.app/" target="_blank">🌐 Live Site</a>
+  </td>
+  <td width="50%">
+    <h3>GuessTheColor</h3>
+    <img src="https://github.com/chiomavera/chiomavera/blob/main/guessthecolor.png" width="700" alt="GuessTheColor Screenshot"/>
+    <p>🎮 Interactive game to guess RGB colours. Includes scoring & animations.</p>
+    <a href="https://github.com/chiomavera/color-game" target="_blank">🔗 Code</a> |
+    <a href="https://guessthecolor-game.netlify.app" target="_blank">🌐 Live Site</a>
+  </td>
+</table>
 </tr>
 </table>
