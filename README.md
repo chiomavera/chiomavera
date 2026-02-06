@@ -1,7 +1,7 @@
-<img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="1000" alt="Banner"/>
+<img src="https://github.com/chiomavera/chiomavera/blob/main/Clean%20Work%20Place%20LinkedIn%20Banner%20(1000%20%C3%97%20396%20px)%20(900%20%C3%97%20300%20px)%20(1000%20%C3%97%20396%20px).png" width="800" alt="Banner"/>
 
 # Hi 👋🏼, I'm Vera Chioma Nkanmuo
-**Frontend Developer | Next.js • React.js • JavaScript • TailwindCSS | Building responsive, scalable, and accessible web interfaces**
+**Frontend Developer | Focused on clarity, usability, and thoughtful UI**
 
 > *Welcome to my corner of GitHub. Here, you'll find the code behind clean, performant, and user-first web applications.*
 
@@ -10,16 +10,11 @@
 <details>
   <summary><b>About Me</b></summary>
 
-I'm a Frontend Developer focused on creating responsive, high-performance, accessible and clean web applications.
+I’m a frontend developer who focuses on building interfaces that are clear in use, not just polished in appearance. I care about how users move through an application — where friction appears, where decisions feel confusing, and how small frontend choices affect the overall experience.
 
-My tech stack includes React.js, JavaScript, Tailwind CSS, CSS, HTML, and Git—paired with a passion for clean UI, accessibility, and responsiveness. Whether it's building component-based architecture or testing usability through structured UAT, I prioritize functionality and performance equally.
+My background in QA and technical support shapes how I write code. I tend to think in edge cases, usability gaps, and real-world constraints, which is why accessibility, performance, and structure matter deeply to me — especially across devices, browsers, and varying network conditions.
 
-- **Accessibility advocate** – Because great UI is for everyone  
-- **Performance-focused** – I use DevTools, Lighthouse & best practices  
-- **Quality-driven** – From code reviews to usability testing  
-- Always learning. Always shipping.
-
-When I’m not building or testing UIs, I’m probably in the kitchen, buried in a book, or tinkering with a side project. Let’s collaborate!
+Most of my projects are built with a product mindset: realistic assumptions, maintainable code, and intentional trade-offs rather than flashy solutions. I’m always refining my fundamentals and revisiting decisions as I build, because clarity is something you earn through iteration.
 
 </details>
 
@@ -34,14 +29,12 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
 ## 🛠️ Tech Stack & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -54,14 +47,14 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
   <td width="50%">
     <h3>inspireMe</h3>
     <img src="https://github.com/chiomavera/chiomavera/blob/main/InspireMe2.png" width="700" alt="inspireMe Screenshot"/>
-    <p>📖 Quote app with filters for different categories and mobile-first design.</p>
+    <p>Quote app with category filters built for mobile-first use. Designed with intuitive navigation and a clear hierarchy so users can find inspiration without friction.</p>
     <a href="https://github.com/chiomavera/InspireMe" target="_blank">🔗 Code</a> |
     <a href="https://inspireme-by-vera.netlify.app/" target="_blank">🌐 Live Site</a>
   </td>
   <td width="50%">
     <h3>Beauty</h3>
     <img src="https://github.com/chiomavera/chiomavera/blob/main/beauty.png" width="700" alt="Beauty Screenshot"/>
-    <p>💄 Elegant landing page for a beauty brand with booking functionality.</p>
+    <p>Landing page for a beauty brand with booking functionality. Prioritized flow and accessibility so users can book services without confusion.</p>
     <a href="https://github.com/chiomavera/beauty-landing-page" target="_blank">🔗 Code</a> |
     <a href="https://beautybyverankanmuo.netlify.app/" target="_blank">🌐 Live Site</a>
   </td>
@@ -70,14 +63,14 @@ When I’m not building or testing UIs, I’m probably in the kitchen, buried in
    <td width="50%">
     <h3>TaskMate</h3>
     <img src="https://github.com/chiomavera/chiomavera/blob/main/TaskMate.png" width="700" alt="TaskMate Screenshot"/>
-    <p>✅ Productivity web app for managing daily tasks with a responsive UI </p>
+    <p>Productivity app for managing daily tasks. Focused on structured UI and responsive layout to make task management seamless across devices. </p>
     <a href="https://github.com/chiomavera/TaskMate" target="_blank">🔗 Code</a> |
     <a href="https://taskmatebyvera-gnome-895670.netlify.app/" target="_blank">🌐 Live Site</a>
   </td>
   <td width="50%">
     <h3>GuessTheColor</h3>
     <img src="https://github.com/chiomavera/chiomavera/blob/main/guessthecolor.png" width="700" alt="GuessTheColor Screenshot"/>
-    <p>🎮 Interactive game to guess RGB colours. Includes scoring & animations.</p>
+    <p>Interactive RGB color game. Designed scoring and animations to give immediate feedback while keeping the interface simple and understandable.</p>
     <a href="https://github.com/chiomavera/color-game" target="_blank">🔗 Code</a> |
     <a href="https://guessthecolor-game.netlify.app" target="_blank">🌐 Live Site</a>
   </td>
